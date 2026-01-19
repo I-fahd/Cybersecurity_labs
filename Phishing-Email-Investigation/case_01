@@ -26,7 +26,7 @@ The SEIM triggered an alert for "Phishing URL Detected" Based on threat intllige
 I analyzed the **Log Management** tab to verify if the user actully connected to the site.
 * **Observation:** the logs showed **2 successful http connections** at proxy and firwall layer, meaning the user visited the malicious site.
 * **Evidence:**
-    > !Log Activity Screenshot(path/to/your/screenshot1.png)
+    > !Log Activity Screenshot(/Cybersecurity_labs/Phishing-Email-Investigation/logs.png)
 
 #### Step 2: Threat Intelligence Check
 I checked the URL address in VirusTotal.
