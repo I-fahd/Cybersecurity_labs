@@ -1,8 +1,20 @@
-# SOC Analyst labs
-This repository contains hands-on soc analyst labs from letsDefend platform.
+# 🛡️ SOC Analyst Portfolio - Fahad ALgethami
 
-## Folder Structure
-- Phishing-Email: for phishing emails from SEIM alerts.
+Welcome to my cybersecurity portfolio! This repository documents my investigations into simulated cyberattacks using the **LetsDefend** platform. 
+
+## 📂 Investigation Log
+
+| Case ID | Alert Type | Verdict | Key Tools | Report Link |
+|:---:|:---|:---:|:---|:---:|
+| **SOC141** | Phishing URL Detected | ✅ True Positive | VirusTotal, Log Management | [📄 View Report](./SOC141-Phishing-URL) |
+| **SOC115** | Malware Detected | ⏳ In Progress | Hybrid Analysis, Sandbox | *Coming Soon* |
+
+---
+
+## 🛠️ Skills Demonstrated
+* **SIEM Log Analysis:** Investigating HTTP/Network logs for IOCs.
+* **Threat Intelligence:** Using VirusTotal, AbuseIPDB, and Cisco Talos.
+* **Incident Response:** Containment, eradication, and firewall blocking.
 
 ## Discleamer 
-All cases are from simulated environments.
+All cases are from simulated environments LetsDefend platform.
