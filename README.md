@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! This repository documents my investigatio
 **Analyst by trade. Hunter by nature.**
 * **Focus:** SOC Operations, Threat Intelligence, & Incident Response.
 * **Mission:** To secure digital infrastructures through proactive monitoring and rapid response.
-* **Current Status:** actively deconstructing attacks on LetsDefend.
+* **Current Status:** Actively deconstructing attacks on LetsDefend.
 
 ## 📂 Investigation Log
 
