@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! This repository documents my investigatio
 
 | Case ID | Alert Type | Verdict | Key Tools | Report Link |
 |:---:|:---|:---:|:---|:---:|
-| **SOC141** | Phishing URL Detected | ✅ True Positive | VirusTotal, Log Management | [📄 View Report](./SOC141-Phishing-URL) |
+| **SOC141** | Phishing URL Detected | ✅ True Positive | VirusTotal, Log Management | [📄 View Report](./Phishing-Email-Investigation/README.md) |
 | **SOC115** | Malware Detected | ⏳ In Progress | Hybrid Analysis, Sandbox | *Coming Soon* |
 
 ---
