@@ -7,17 +7,6 @@ The primary goal of this repository is to demonstrate my SOC L1 alert triage pro
 
 ---
 
-## 👤 About Me
-
-Entry-Level SOC Analyst  
-Focused on alert triage, phishing analysis, and initial incident response.
-
-- Interest Areas: SOC Operations, Phishing Analysis, Incident Triage  
-- Learning Approach: Hands-on labs combined with structured documentation  
-- Current Focus: Analyzing and validating security alerts using LetsDefend  
-
----
-
 ## 🎯 Repository Objective
 
 This repository is designed to showcase:
@@ -32,6 +21,8 @@ All cases are analyzed from a SOC L1 perspective.
 ---
 
 ## 📂 Investigation Log
+
+Each investigation follows a structured SOC workflow: alert review, evidence collection, validation, and final verdict.
 
 | Case ID | Alert Type | Verdict | Tools Used | Report |
 |:---:|:---|:---:|:---|:---:|
