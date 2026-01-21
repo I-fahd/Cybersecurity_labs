@@ -32,7 +32,7 @@ The SIEM triggered an alert for a "Malicious Attachment" based on mail gateway f
 I analyzed the **Log Management** tab to verify if the email was delivered.
 * **Result:** The "Device Action" was **Allowed**, meaning the email reached the user's inbox.
 * **Evidence:**
-    > ![Email Log Screenshot](logs.png)
+    > ![Email Log Screenshot](./Evidence/logs.png)
 
 #### Step 2: Attachment Analysis (Static)
 I downloaded the attachment `Invoice.xlsx` and analyzed its hash in VirusTotal.
@@ -40,14 +40,14 @@ I downloaded the attachment `Invoice.xlsx` and analyzed its hash in VirusTotal.
 * **VirusTotal Result:** **Malicious** (Flagged by multiple vendors).
 * **Exploit Detected:** CVE-2017-11882 (Microsoft Equation Editor RCE).
 * **Evidence:**
-    > ![VirusTotal Screenshot](virustotal.png)
+    > ![VirusTotal Screenshot](./Evidence/virustotal.png)
 
 #### Step 3: Endpoint Analysis (Dynamic)
 I checked **Endpoint Security** for the host `Richard` to see if the file was executed.
 * **Process:** `LaZagne.exe`.
 * **Observation:** The presence of `LaZagne.exe` (a known credential harvesting tool) confirms that the exploit was successful and the machine is compromised.
 * **Evidence:**
-    > ![Process Screenshot](process.png)
+    > ![Process Screenshot](./Evidence/process.png)
 
 ---
 
