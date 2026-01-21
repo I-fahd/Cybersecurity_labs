@@ -1,33 +1,65 @@
-# 🛡️ SOC Analyst Portfolio - Fahad Algethami
+# 🛡️ SOC Analyst Portfolio – Fahad Algethami
 
-Welcome to my cybersecurity portfolio! This repository documents my investigations into simulated cyberattacks using the **LetsDefend** platform. 
+Welcome to my SOC Analyst portfolio.  
+This repository documents my hands-on learning and alert analysis practice through simulated SOC investigations on the LetsDefend platform.
 
-### 👤 About Me
-**Analyst by trade. Hunter by nature.**
-* **Focus:** SOC Operations, Threat Intelligence, & Incident Response.
-* **Mission:** To secure digital infrastructures through proactive monitoring and rapid response.
-* **Current Status:** Actively deconstructing attacks on LetsDefend.
+The primary goal of this repository is to demonstrate my SOC L1 alert triage process, investigation methodology, and documentation skills.
+
+---
+
+## 👤 About Me
+
+Entry-Level SOC Analyst  
+Focused on alert triage, phishing analysis, and initial incident response.
+
+- Interest Areas: SOC Operations, Phishing Analysis, Incident Triage  
+- Learning Approach: Hands-on labs combined with structured documentation  
+- Current Focus: Analyzing and validating security alerts using LetsDefend  
+
+---
+
+## 🎯 Repository Objective
+
+This repository is designed to showcase:
+
+- How I analyze and validate SOC alerts  
+- My investigation thought process step-by-step  
+- How I determine whether an alert is a True Positive or False Positive  
+- How I document incidents clearly and professionally  
+
+All cases are analyzed from a SOC L1 perspective.
+
+---
 
 ## 📂 Investigation Log
 
-| Case ID | Alert Type | Verdict | Key Tools | Report Link |
+| Case ID | Alert Type | Verdict | Tools Used | Report |
 |:---:|:---|:---:|:---|:---:|
-| **SOC141** | Phishing URL Detected | ✅ True Positive | VirusTotal, Log Management | [📄 View Report](./SOC141_Phishing_URL_Detected) |
-| **SOC114** | Malicious Attachment | ✅ True Positive | VirusTotal, Endpoint Security | [📄 View Report](./SOC114_Malicious_Attachment_Detected) |
-| **SOC120** | Phishing (Internal) | ⚠️ False Positive | Email Security | [📄 View Report](./SOC120_Phishing_Mail_Detected_Internal_to_Interna) |
-| **SOC140** | Suspicious Task | ✅ True Positive | VirusTotal, Log Management, Email Security | [📄 View Report](./SOC140_Phishing_Mail_Detected_Suspicious_Task_Scheduler) |
+| SOC141 | Phishing URL Detected | ✅ True Positive | SIEM, VirusTotal, EDR, Logs | [View Report](./SOC141_Phishing_URL_Detected) |
+| SOC114 | Malicious Attachment | ✅ True Positive | Email Security, VirusTotal, EDR | [View Report](./SOC114_Malicious_Attachment_Detected) |
+| SOC120 | Phishing (Internal) | ⚠️ False Positive | Email Security | [View Report](./SOC120_Phishing_Mail_Detected_Internal_to_Internal) |
+| SOC140 | Suspicious Task Scheduler | ✅ True Positive | Logs, EDR, Email Security | [View Report](./SOC140_Phishing_Mail_Detected_Suspicious_Task_Scheduler) |
 
 ---
 
 ## 🛠️ Skills Demonstrated
-* **SIEM Log Analysis:** Investigating HTTP/Network logs for IOCs.
-* **Threat Intelligence:** Using VirusTotal, AbuseIPDB, and Cisco Talos.
-* **Incident Response:** Containment, eradication, and firewall blocking.
 
-## ⚠️ Disclaimer
-All cases are from simulated environments on the **LetsDefend** platform.
+- Alert Triage: Reviewing SIEM alerts and validating suspicious activity  
+- Phishing Analysis: Analyzing URLs, email content, and attachments  
+- Threat Intelligence: Verifying indicators using VirusTotal and built-in threat feeds  
+- Endpoint Review: Checking EDR telemetry for downloads or execution  
+- Log Analysis: Reviewing proxy, firewall, and email logs  
+- Incident Documentation: Writing structured SOC investigation reports  
 
 ---
-### 📬 Connect with Me
-* **LinkedIn:** [Fahad Algethami](https://www.linkedin.com/in/fahad-algethami-462806270)
-* **Email:** [fahd_d2000@hotmail.com](mailto:fahd_d2000@hotmail.com)
+
+## ⚠️ Disclaimer
+
+All investigations are conducted in simulated environments provided by the LetsDefend platform for learning purposes.
+
+---
+
+## 📬 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/fahad-algethami-462806270  
+- Email: fahd_d2000@hotmail.com
