@@ -13,7 +13,7 @@ Welcome to my cybersecurity portfolio! This repository documents my investigatio
 | Case ID | Alert Type | Verdict | Key Tools | Report Link |
 |:---:|:---|:---:|:---|:---:|
 | **SOC141** | Phishing URL Detected | ✅ True Positive | VirusTotal, Log Management | [📄 View Report](./SOC141_Phishing_URL_Detected) |
-| **SOC114** | Malicious Attachment Detected | ✅ True Positive | VirusTotal, Log Management, EDR logs | [📄 View Report](./SOC114_Malicious_attachment_detected) |
+| **SOC114** | Malicious Attachment Detected | ✅ True Positive | VirusTotal, Log Management, EDR logs | [📄 View Report](./SOC114_Malicious_Attachment_Detected) |
 
 ---
 
