@@ -47,7 +47,7 @@ I checked **Endpoint Security** for the host `Richard` to see if the file was ex
 * **Process:** `LaZagne.exe`.
 * **Observation:** The presence of `LaZagne.exe` (a known credential harvesting tool) confirms that the exploit was successful and the machine is compromised.
 * **Evidence:**
-    > ![Process Screenshot](endpoint.png)
+    > ![Process Screenshot](process.png)
 
 ---
 
