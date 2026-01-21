@@ -39,7 +39,7 @@ I checked **Email Security** to inspect the email body for suspicious content.
 * **Artifacts:** No attachments or external URLs were present in the email body.
 * **Conclusion:** The email is benign.
 * **Evidence:**
-    > ![Email Security Screenshot](email_security.png)
+    > ![Email Security Screenshot](./Evidence/email_security.png)
 
 ---
 
