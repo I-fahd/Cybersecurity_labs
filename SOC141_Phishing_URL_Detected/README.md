@@ -61,5 +61,4 @@ The following artifacts were collected during the investigation:
 
 ## 🧠 5. Analyst Notes & Lessons Learned
 * Lesson Learned: The firewall allowed this connection because the domain was newly registered and had not yet propagated to our threat feeds. I recommended reviewing firewall policies related to uncategorized domains.
-.
 
