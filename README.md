@@ -1,9 +1,14 @@
 # 🛡️ SOC Analyst Portfolio – Fahad Algethami
 
-Welcome to my SOC Analyst portfolio.  
-This repository documents my hands-on learning and alert analysis practice through simulated SOC investigations on the LetsDefend platform.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=SOC+Analyst+Portfolio;Hands-on+SOC+Investigations;Alert+Triage+%7C+Phishing+%7C+Malware;SOC+L1+Ready" />
+</p>
 
-The primary goal of this repository is to demonstrate my SOC L1 alert triage process, investigation methodology, and documentation skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-SOC%20Operations-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-SOC%20L1-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-LetsDefend-00C853?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -40,9 +45,8 @@ Each investigation follows a structured SOC workflow: alert review, evidence col
 - Phishing Analysis: Analyzing URLs, email content, and attachments  
 - Threat Intelligence: Verifying indicators using VirusTotal and built-in threat feeds  
 - Endpoint Review: Checking EDR telemetry for downloads or execution  
-- Log Analysis: Reviewing proxy, firewall, and email logs  
-- Incident Documentation: Writing structured SOC investigation reports  
-
+- Log Analysis: Reviewing proxy, firewall, and email logs
+  
 ---
 
 ## ⚠️ Disclaimer
@@ -51,7 +55,17 @@ All investigations are conducted in simulated environments provided by the LetsD
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/fahad-algethami-462806270  
-- Email: fahd_d2000@hotmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=SOC+L1+Portfolio;Blue+Team+Focused;Open+to+SOC+L1+Opportunities" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-algethami-462806270" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fahd_d2000@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
