@@ -19,7 +19,6 @@ This repository is designed to showcase:
 - How I analyze and validate SOC alerts  
 - My investigation thought process step-by-step  
 - How I determine whether an alert is a True Positive or False Positive  
-- How I document incidents clearly and professionally  
 
 All cases are analyzed from a SOC L1 perspective.
 
